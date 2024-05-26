@@ -4,7 +4,7 @@ Computer Organization - Spring 2024
 ## Assignment 1: Assembly code execution on phoeniX RISC-V core
 
 - Name: Abdollah Khalaj
-- Team Members: Abdoolah Khalaj - Ali Hemmati - Amirhosein sharifi
+- Team Members: Abdollah Khalaj - Ali Hemmati - Amirhosein sharifi
 - Student ID: 400412004
 - Date: 5/26/2024
 
