@@ -3,10 +3,10 @@ Computer Organization - Spring 2024
 ## Iran Univeristy of Science and Technology
 ## Assignment 1: Assembly code execution on phoeniX RISC-V core
 
-- Name: Seyed AmirHossein Sharifi
-- Team Members:
-- Student ID: 400412355
-- Date: 5/25/2024
+- Name: Abdollah Khalaj
+- Team Members: Abdoolah Khalaj - Ali Hemmati - Amirhosein sharifi
+- Student ID: 400412004
+- Date: 5/26/2024
 
 ## Report
 
@@ -42,4 +42,3 @@ Inside the loop :
 4. The algorithm incrementally approximates the square root by incrementing a counter until reaching a close value.
 
 FINISH.
-GOOD LUCK
